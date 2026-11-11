@@ -1,8 +1,8 @@
 :root {
   color-scheme: light;
   font-family: "DM Sans", sans-serif;
-  color: #252a26;
-  background: #f5f6f2;
+  color: #ff0000;
+  background: #ff0303;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -10,9 +10,9 @@
   font-optical-sizing: auto;
   font-weight: 400;
 
-  --green: #376c50;
-  --green-dark: #2c593f;
-  --green-pale: #eaf2eb;
+  --green: #ff0707;
+  --green-dark: #fd0808;
+  --green-pale: #ff0000;
   --muted: #898f89;
   --line: #eceee9;
 }
